@@ -1,0 +1,10 @@
+20190216-聊天室小项目这是原码
+ChatRoomClient.jar和ChatRoomServer.jar这是我打好的jar包,
+client.bat和server.bat是.bat命令,可以黑窗口运行.
+
+运行方式1:
+可以直接点击Server.bat开启服务器端,根据提示输入端口号
+然后点击clien.bat开启客户端,根据提示输入ip和端口号
+
+运行方式2:
+打开原码运行
